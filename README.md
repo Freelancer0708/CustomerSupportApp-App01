@@ -1,4 +1,7 @@
 <h2>インストールに必要なもの</h2>
-<p>npm install next@latest react@latest react-dom@latest</p>
-<p>npm install --save-dev typescript @types/react @types/node</p>
-<p>npm install firebase</p>
+<code>npm install next@latest react@latest react-dom@latest
+ npm install --save-dev typescript @types/react @types/node
+ npm install firebase
+ npm install openai
+ npm install axios
+ npm install --save-dev @types/axios</code>
